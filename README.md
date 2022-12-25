@@ -1,2 +1,2 @@
-# website
-CV website
+# Website
+CV Website
